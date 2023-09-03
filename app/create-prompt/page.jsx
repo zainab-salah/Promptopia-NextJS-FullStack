@@ -6,6 +6,9 @@ import { useRouter } from "next/navigation";
 import React, { useState } from "react";
 
 const CreatePropmt = () => {
+  const router = useRouter();
+  const { data: session } = useSession();
+
   const [submitting, setSubmitting] = useState(false);
   const [post, setPost] = useState({
     prompt: "",
