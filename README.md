@@ -1,4 +1,5 @@
 # Promptopia - A Full-Stack Web Application with Next.js
+![screencapture-promptopia-next-js-full-stack-vercel-app-2023-09-04-12_00_34](https://github.com/zainab-salah/Promptopia-NextJS-FullStack/assets/76114995/18f22c31-fdf1-4bfd-bdcc-ecd5f911ba5d)
 
 Building a full-stack website can be demanding, involving tasks ranging from frontend design to backend development, including logic implementation, authentication, writing endpoints, and managing data in a database. Enter Next.js, a framework that brings it all together seamlessly.
 
